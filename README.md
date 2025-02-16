@@ -1,4 +1,4 @@
-::# Telephone Package - Observer Pattern
+::# Telephone Package - Observer Pattern.
 
 ## Overview
 
